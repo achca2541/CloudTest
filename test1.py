@@ -1,2 +1,6 @@
 print ("Hello")
 print ("petch")
+print ("petch")
+print ("petch")
+print ("petch")
+print ("petch")
